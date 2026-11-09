@@ -1,11 +1,5 @@
-res://bullet.gd
-res://bullet.tscn
-res://gun.gd
-res://gun.tscn
-res://game.tscn
-res://mob.gd
-res://mob.tscn
+res://pistol/impact/impact.tscn
 res://smoke_explosion/smoke_explosion.gdshader
-res://player.gd
-res://player.tscn
-res://game.gd
+res://gun.gd
+res://pistol/muzzle_flash/muzzle_flash.tscn
+res://bullet.gd
