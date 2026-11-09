@@ -1,5 +1,11 @@
-res://characters/player.tscn
-res://characters/player.gd
+res://bullet.gd
+res://bullet.tscn
+res://gun.gd
+res://gun.tscn
 res://game.tscn
-res://mob.tscn
 res://mob.gd
+res://mob.tscn
+res://smoke_explosion/smoke_explosion.gdshader
+res://player.gd
+res://player.tscn
+res://game.gd
